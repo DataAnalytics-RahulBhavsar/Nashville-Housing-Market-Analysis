@@ -1,5 +1,19 @@
 # 🏠 Nashville Housing Market Analysis
 
+❓ Problem Statement
+
+Real estate markets generate large amounts of property transaction data, but raw housing data often contains missing values, inconsistent information, and complex pricing patterns that make analysis difficult. Without proper analysis, stakeholders may struggle to:
+
+Understand housing market trends over time
+Identify which property types generate the most revenue
+Analyze geographic concentration of sales
+Evaluate factors affecting property prices
+Detect data quality issues that impact decision-making
+
+The objective of this project is to clean, analyze, and visualize Nashville housing market data using SQL and Power BI to uncover pricing trends, sales patterns, and business insights through an interactive dashboard.
+
+---
+
 ## 📌 Project Overview
 
 This project presents an end-to-end data analysis of the Nashville housing market using SQL and Power BI. The goal is to uncover trends in property sales, pricing behavior, and data quality issues while building a business-focused interactive dashboard.
